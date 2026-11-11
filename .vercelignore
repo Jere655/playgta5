@@ -1,0 +1,8 @@
+runtime/
+snapshot/
+media/
+*.py
+*.ps1
+*.cmd
+*.md
+headers.txt
